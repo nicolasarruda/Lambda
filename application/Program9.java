@@ -16,7 +16,7 @@ public class Program9   {
 		list.add(new Product("Mouse", 50.00));
 		list.add(new Product("Teclado", 70.00));
 		list.add(new Product("HD", 350.00));
-		list.add(new Product("Memória", 250.00));
+		list.add(new Product("Memory", 250.00));
 		
 		// reference method
 		list.removeIf(Product::nonStaticProductPredicate);
