@@ -1,0 +1,5 @@
+Maria,maria@mail.com,2000.00
+João,joao@mail.com,2100.00
+Paulo,paulo@mail.com,500.00
+Marta,marta@mail.com,1500.00
+José,jose@mail.com,1850.00
